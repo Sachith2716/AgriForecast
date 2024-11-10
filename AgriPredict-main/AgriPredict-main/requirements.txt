@@ -1,0 +1,10 @@
+streamlit
+pandas
+pickle-mixin
+plotly
+Pillow
+datetime
+numpy
+matplotlib
+seaborn
+scikit-learn
